@@ -1,1 +1,1 @@
-![@平台接入示意图](/assets/test.png)
+![@平台接入示意图](/assets/a.png)
